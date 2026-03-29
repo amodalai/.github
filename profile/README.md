@@ -6,7 +6,7 @@ Amodal gives your team an AI agent that knows your tools, follows your methodolo
 
 ## How it works
 
-1. **Connect** your systems — Salesforce, Slack, Jira, HubSpot, and [90+ more](https://www.amodalai.com/marketplace)
+1. **Connect** your systems — Salesforce, Slack, Jira, HubSpot, and [more](https://www.amodalai.com/marketplace)
 2. **Define skills** — markdown files that describe methodology, not prompts
 3. **Add knowledge** — domain context that compounds over time
 4. **Deploy** — `git push` and your agent is live
@@ -23,5 +23,5 @@ Amodal gives your team an AI agent that knows your tools, follows your methodolo
 
 - [Website](https://www.amodalai.com)
 - [Documentation](https://docs.amodalai.com)
-- [Packages](https://www.amodalai.com/marketplace) — 105 connections, skills, automations, and knowledge packs
+- [Packages](https://www.amodalai.com/marketplace) — connections, skills, automations, and knowledge packs
 - [Request a Demo](https://www.amodalai.com/demo)
