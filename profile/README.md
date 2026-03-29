@@ -4,14 +4,14 @@
 
 Amodal gives your team an AI agent that knows your tools, follows your methodology, and gets smarter with use. The core loop: **explore** (query your systems) → **plan** (reason about what to do) → **execute** (take action, learn from results).
 
-## How it works
+## ⚙️ How it works
 
 1. **Connect** your systems — Salesforce, Slack, Jira, HubSpot, and [more](https://www.amodalai.com/marketplace)
 2. **Define skills** — markdown files that describe methodology, not prompts
 3. **Add knowledge** — domain context that compounds over time
 4. **Deploy** — `git push` and your agent is live
 
-## Use cases
+## 💡 Use cases
 
 - **Sales Ops** — pipeline triage, deal scoring, forecast reviews
 - **Security** — alert triage, incident response, threat hunting
@@ -19,7 +19,7 @@ Amodal gives your team an AI agent that knows your tools, follows your methodolo
 - **Property Management** — maintenance triage, lease renewals, vacancy marketing
 - **Any team** that needs an AI agent connected to their stack
 
-## Links
+## 🔗 Links
 
 - [Website](https://www.amodalai.com)
 - [Documentation](https://docs.amodalai.com)
